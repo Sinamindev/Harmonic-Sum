@@ -1,0 +1,190 @@
+;====== TEST RUN #1 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 4
+The harmonic sum H(4) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198011595955632 
+The clock time after completion of calculations was 198011596058072 
+The harmonic computation required 102440 clock cycles (tics) which is 0.0000426833 seconds on this machine.
+The harmonic sum of 4 terms is 2.0833333333, which is 0x4000aaaaaaaaaaaa.
+This assembly program will now return to the caller
+
+The driver received these numbers: 4 and 2.0833333333
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #2 =======================================================================================================
+
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 6
+The harmonic sum H(6) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198019201034224 
+The clock time after completion of calculations was 198019201054400 
+The harmonic computation required 20176 clock cycles (tics) which is 0.0000084067 seconds on this machine.
+The harmonic sum of 6 terms is 2.4500000000, which is 0x4003999999999999.
+This assembly program will now return to the caller
+
+The driver received these numbers: 6 and 2.4500000000
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #3 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 9
+The harmonic sum H(9) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198031575977256 
+The clock time after completion of calculations was 198031576016496 
+The harmonic computation required 39240 clock cycles (tics) which is 0.0000163500 seconds on this machine.
+The harmonic sum of 9 terms is 2.8289682540, which is 0x4006a1ba1ba1ba1b.
+This assembly program will now return to the caller
+
+The driver received these numbers: 9 and 2.8289682540
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #4 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 25
+The harmonic sum H(25) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198042207679400 
+The clock time after completion of calculations was 198042207705552 
+The harmonic computation required 26152 clock cycles (tics) which is 0.0000108967 seconds on this machine.
+The harmonic sum of 25 terms is 3.8159581778, which is 0x400e871514c2d72d.
+This assembly program will now return to the caller
+
+The driver received these numbers: 25 and 3.8159581778
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #5 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 75
+The harmonic sum H(75) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198053873887712 
+The clock time after completion of calculations was 198053873918304 
+The harmonic computation required 30592 clock cycles (tics) which is 0.0000127467 seconds on this machine.
+The harmonic sum of 75 terms is 4.9013556306, which is 0x40139afcf86d29c6.
+This assembly program will now return to the caller
+
+The driver received these numbers: 75 and 4.9013556306
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #6 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 100
+The harmonic sum H(100) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198064716866696 
+The clock time after completion of calculations was 198064716896496 
+The harmonic computation required 29800 clock cycles (tics) which is 0.0000124167 seconds on this machine.
+The harmonic sum of 100 terms is 5.1873775176, which is 0x4014bfdfe4591243.
+This assembly program will now return to the caller
+
+The driver received these numbers: 100 and 5.1873775176
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #7 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 500
+The harmonic sum H(500) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198074888470928 
+The clock time after completion of calculations was 198074888516480 
+The harmonic computation required 45552 clock cycles (tics) which is 0.0000189800 seconds on this machine.
+The harmonic sum of 500 terms is 6.7928234396, which is 0x401b2bd9e7bd3f4f.
+This assembly program will now return to the caller
+
+The driver received these numbers: 500 and 6.7928234396
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #8 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 1000
+The harmonic sum H(1000) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198096687123186 
+The clock time after completion of calculations was 198096687148731 
+The harmonic computation required 25545 clock cycles (tics) which is 0.0000106437 seconds on this machine.
+The harmonic sum of 1000 terms is 7.4854708606, which is 0x401df11f45f4e616.
+This assembly program will now return to the caller
+
+The driver received these numbers: 1000 and 7.4854708606
+The driver will now return a 0 to the operating system.
+
+;====== TEST RUN #9 =======================================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 10000
+The harmonic sum H(10000) is being computed.
+Please be patient . . . .
+The sum is now computed.
+The clock time before the calculations began was  198133993772480 
+The clock time after completion of calculations was 198133994288912 
+The harmonic computation required 516432 clock cycles (tics) which is 0.0002151800 seconds on this machine.
+The harmonic sum of 10000 terms is 9.7876060356, which is 0x40239341192de29c.
+This assembly program will now return to the caller
+
+The driver received these numbers: 10000 and 9.7876060356
+The driver will now return a 0 to the operating system.
+

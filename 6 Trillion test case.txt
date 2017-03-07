@@ -1,0 +1,22 @@
+; ==== TEST CASE FOR 6 TRILLION ===============================================================================================
+
+Welcome to the harmonic series by Sina Amini 
+
+This program will compute a partial sum of the harmonic series
+
+These results were obtained on a Lenovo Y500 labtop with Core-i7 quad core processor at 2.4GHz 
+
+Please enter a positive integer for the number of terms to include in the harmonic sum: 6000000000000
+The harmonic sum H(6000000000000) is being computed.
+Please be patient . . . .
++The sum is now computed.
+The clock time before the calculations began was  198313690678696 
+The clock time after completion of calculations was 306003681200304 
+The harmonic computation required 107689990521608 clock cycles (tics) which is 44870.8293840033 seconds on this machine.
+The harmonic sum of 6000000000000 terms is 29.9999791226, which is 0x403dfffea1bffbf3.
+This assembly program will now return to the caller
+
+The driver received these numbers: 6000000000000 and 29.9999791226
+The driver will now return a 0 to the operating system.
+
+; =============================================================================================================================
