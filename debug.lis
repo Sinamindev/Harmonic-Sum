@@ -1,23 +1,7 @@
      1                                  ;========1=========2=========3=========4=========5=========6=========7=========8=========9=========0=========1=========2=========3=========4=========5=========6=========7**
-     2                                  ;   TTTTTTTTTTTTTTT               A               PPPPPP         Titan Assembly Project, CSUF
-     3                                  ;          T                     A A              P    PP        Titan Assembly Project, CSUF
-     4                                  ;          T                    A   A             P     PP       Titan Assembly Project, CSUF
-     5                                  ;          T                   A     A            P      PP      Titan Assembly Project, CSUF
-     6                                  ;          T                  A       A           P     PP       Titan Assembly Project, CSUF
-     7                                  ;          T                 A         A          P    PP        Titan Assembly Project, CSUF
-     8                                  ;          T                AAAAAAAAAAAAA         PPPPPP         Titan Assembly Project, CSUF
-     9                                  ;          T               A             A        P              Titan Assembly Project, CSUF
-    10                                  ;          T              A               A       P              Titan Assembly Project, CSUF
-    11                                  ;          T             A                 A      P              Titan Assembly Project, CSUF
-    12                                  ;          T            A                   A     P              Titan Assembly Project, CSUF
-    13                                  ;
     14                                  ;Author information
     15                                  ;  Author name: Floyd Holliday
     16                                  ;  Author email: holliday@fullerton.edu
-    17                                  ;Course information
-    18                                  ;  Course number: CPSC240
-    19                                  ;  Assignment number: 00
-    20                                  ;  Due date: 9999-Dec-31
     21                                  ;  Date of last modification: 2014-Aug-09
     22                                  ;Project information
     23                                  ;  Project title: X86 Assembly Debugger
@@ -34,9 +18,7 @@
     34                                  ;  Page width: 172 columns
     35                                  ;  Begin comments: 61
     36                                  ;  Optimal print specification: Landscape orientation, 7 points, monospace, 8½x11 paper
-    37                                  ;Restrictions
-    38                                  ;  This software is for use by persons enrolled in CPSC240.  All other use is unauthorized.
-    39                                  ;Information for users  
+      39                                  ;Information for users  
     40                                  ;  Make this Debug tool available for your own software.  First assemble this file.  Place the include statement |%include "debug.inc"| excluding the vertical bars in your
     41                                  ;  source code at the beginning.  Typically this include directive is the first statement other than comments in a program.
     42                                  ;Future enhancements pending
